@@ -1,6 +1,6 @@
 # CarND-MPC-Project - MODEL PREDICTIVE CONTROLLER
 
-## Reflection
+## Reflection 
 
 Objective of the project is to build a Model Predictive controller that can provide steer and throttle commands to the simulator in such a way that the vehcile can reliably drive around the track by predicting where the vehicle will be in the next few time steps. Such ability to predict and control ensures smooth navigation through out track unlike PID controller which has many jerks and breaks. The simulator provides the required 'way points', 'vehicles position in map cooridnates, 'velocity' and 'Orientation angle' for the controller to use as inputs and to arrive at commands to pass back to the simulator. 
 
